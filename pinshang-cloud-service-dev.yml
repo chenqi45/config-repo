@@ -1,5 +1,4 @@
-spring:
-    datasource:
+datasource:
         name: data
         url: jdbc:mysql://127.0.0.1:3306/pinshang?useUnicode=true&characterEncoding=utf-8&autoReconnect=true
         username: root
