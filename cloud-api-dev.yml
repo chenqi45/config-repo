@@ -1,0 +1,4 @@
+zuul:
+  routes:
+    CLOUD-SERVICE: /api/**
+    CLOUD-TEST: /test/**

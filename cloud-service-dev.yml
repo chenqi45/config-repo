@@ -15,7 +15,3 @@ spring:
         testWhileIdle: true
         testOnReturn: false
         validationQuery: select 1
-
-zuul:
-  routes:
-    CLOUD-SERVICE: /api/**
